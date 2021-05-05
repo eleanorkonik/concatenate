@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-concatenate",
+	"name": "Concatenate",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "This plugin will allow you to put the contents of sections together in one file",
+	"author": "Eleanor Konik",
+	"authorUrl": "https://github.com/eleanorkonik/-concatenate",
+	"isDesktopOnly": false
+}
