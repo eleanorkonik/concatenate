@@ -17,6 +17,10 @@
 4. Use the command palette (`ctrl+p` on windows by default) to `Concatenate Headings`. 
 5. View, rename, and/or move the outputted file, which will be created in your vault’s root directory with a name like “Concatenated_Note-Timestamp.” There will be a popup in the top right hand corner telling you the filename. 
 
+### Goals
+
+* I’d like to add functionality that will let you just search your vault and concatenate all sections / blocks with a particular search result, i.e. letting you concatenate all sections that contain the word `cattle` instead of needing to assign a particular section name that is always the same. 
+
 ### Disclaimer
 
 This is my _very first code project of any kind_. A few months ago I had never done any programming more complex than simple lua scripts for video games. Please install at your own risk, and understand that updates & bugfixes will be slow and awkward unless someone is willing to submit a pull request. 
