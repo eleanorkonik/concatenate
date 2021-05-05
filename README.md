@@ -2,7 +2,7 @@
 
 ### Manual Installation
 
-- Download the latest `main.js, mainfest.json and styles.css` from releases. 
+- Download the latest `main.js & mainfest.json` from [releases](https://github.com/eleanorkonik/concatenate/releases). 
 - Create a new folder named 'obsidian-concatenate'
 - Place the three files in the folder (although honestly styles.css doesn’t matter)
 - Place the folder in your .obsidian/plugins directory
