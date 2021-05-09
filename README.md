@@ -19,11 +19,11 @@
 
 ### Screenshots
 
-![command_pallete.png]()
+![image](command_pallete.png)
 
-![daily-and-concatenated-note.png]()
+![image](daily-and-concatenated-note.png)
 
-![settings.png]()
+![image](settings.png)
 
 ### Goals
 
