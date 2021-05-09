@@ -25,7 +25,7 @@
 
 ![image](daily-and-concatenated-note.PNG)
 
-Running the `Concatenate Headings` command from the command palette will take the 6 files on the right (along with all the others in the folder they're in) and output a file that looks like the one on the left. I then cut, paste, re-arrange, re-order, move around, and otherwise sort them into an output that looks like: [this reading roundup](https://eleanorkonik.com/reading-roundup-edible-entrails-self-fermenting-wine/)
+Basically, running the `Concatenate Headings` command from the command palette will take the 6 files on the right (along with all the others in the folder they're in) and output a file that looks like the one on the left. I then cut, paste, re-arrange, re-order, move around, and otherwise sort them into an output that looks like: [this reading roundup](https://eleanorkonik.com/reading-roundup-edible-entrails-self-fermenting-wine/).
 
 ### Goals
 
