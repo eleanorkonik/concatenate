@@ -19,9 +19,9 @@
 
 ### Screenshots
 
-![image](command_pallete.png)
+![image](command_palette.png)
 
-![image](daily-and-concatenated-note.png)
+![image](daily-and-concatenated-note.PNG)
 
 ![image](settings.png)
 
