@@ -27,8 +27,10 @@
 
 ### Goals
 
-* I’d like to add functionality that will let you just search your vault and concatenate all sections / blocks with a particular search result, i.e. letting you concatenate all sections that contain the word `cattle` instead of needing to assign a particular section name that is always the same.
+* I’d like to add functionality that will let you just search your vault and concatenate all sections / blocks with a particular search result, i.e. letting you concatenate all sections that contain the word cattle instead of needing to assign a particular section name that is always the same.
+* I’d like to add functionality that will let you just search your vault and concatenate all sections / blocks with a particular search result, i.e. letting you concatenate all sections that contain the word cattle instead of needing to assign a particular section name that is always the same. 
 
+* I'd like to add an option to include headings in the concatenated file to indicate which file the section originally came from. 
 ### Disclaimer
 
 This is my _very first code project of any kind_. A few months ago I had never done any programming more complex than simple lua scripts for video games. Please install at your own risk, and understand that updates & bugfixes will be slow and awkward unless someone is willing to submit a pull request. 
